@@ -1,4 +1,4 @@
-#About
+# About
 
 Some basic idea on how to model a text is with use of n-grams. This code is 
 based on resources provided by the 
