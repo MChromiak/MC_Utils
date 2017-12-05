@@ -1,7 +1,7 @@
 # About
 
-Data available with use of [Google Ngram Viewer](https://books.google
-.com/ngrams)  is optimized for quick **on-line** inquiries into the usage of 
+Data available with use of 
+[Google Ngram Viewer](https://books.google.com/ngrams)  is optimized for quick **on-line** inquiries into the usage of 
  small sets of phrases. But what if you want to get the data analyzed  
  **locally**? 
 
