@@ -1,12 +1,12 @@
 # About
 
 Data available with use of 
-[Google Ngram Viewer](https://books.google.com/ngrams)  is optimized for quick **on-line** inquiries into the usage of 
- small sets of phrases. But what if you want to get the data analyzed  
- **locally**? 
+[Google Ngram Viewer](https://books.google.com/ngrams) is optimized for quick
+**on-line** inquiries for OCRed sets of phrases. But what if you want to get 
+the data analyzed **locally**? 
 
 This script retrieves data from Google Ngram Viewer and allow for local data 
-analysis.
+analysis and plotting.
  
 ### Dependencies
 
